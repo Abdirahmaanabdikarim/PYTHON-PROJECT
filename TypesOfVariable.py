@@ -13,12 +13,4 @@ Printing()
 print(x);
 
 
-    
-
-
-    
-
-
-
-
 
